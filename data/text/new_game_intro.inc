@@ -1,5 +1,5 @@
 gOtherText_NewName::
-    .string "NEW NAME$"
+    .string "HOLCHIFA HAHPA$"
 
 gNameChoice_Green::
     .string "GREEN$"
@@ -155,8 +155,8 @@ gControlsGuide_Text_LRButtons::
     .string "press the L or R Button.$"
 
 gOakSpeech_Text_AskPlayerGender::
-    .string "Now tell me. Are you a boy?\n"
-    .string "Or are you a girl?$"
+    .string "Naho, anfatchi. Naanoot...\n"
+    .string "tayyoot onchi?$"
 
 gPikachuIntro_Text_Page1::
     .string "In the world which you are about to\n"
@@ -187,57 +187,62 @@ gPikachuIntro_Text_Page3::
     .string "adventure begin!$"
 
 gOakSpeech_Text_WelcomeToTheWorld::
-    .string "Hello, there!\n"
-    .string "Glad to meet you!\p"
-    .string "Welcome to the world of POKéMON!\p"
-    .string "My name is OAK.\p"
-    .string "People affectionately refer to me\n"
-    .string "as the POKéMON PROFESSOR.\p$"
+    .string "Chikaano!\n"
+    .string "Achibaakayok achayokpo!\p"
+    .string "Ontichoka POKIMONKA imihaaniya!\p"
+    .string "Chaholchifa BAYA.\p"
+    .string "Mahmin aatiha ayokpaalossin\n"
+    .string "hochamankahchoti\p"
+    .string "POKIMONKA IMPROFISSA.\p$"
 
 gOakSpeech_Text_ThisWorld::
-    .string "This world…$"
+    .string "Ya ihaanifon…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
-    .string "…is inhabited far and wide by\n"
-    .string "creatures called POKéMON.\p$"
+    .string "…aatihifooska POKIMONKA\n"
+    .string "holchifayok wiiko.\p$"
 
 gOakSpeech_Text_IStudyPokemon::
-    .string "For some people, POKéMON are pets.\n"
-    .string "Others use them for battling.\p"
-    .string "As for myself…\p"
-    .string "I study POKéMON as a profession.\p$"
+    .string "aatiha namposin, POKIMONKAYA alpoyba.\n"
+    .string "Miitamok ittibin usekahchoti.\p"
+    .string "Anok…\p"
+    .string "POKIMONKA istilaabachilo\n"
+    .string "intohnaymon.\p$"
 
 gOakSpeech_Text_TellMeALittleAboutYourself::
-    .string "But first, tell me a little about\n"
-    .string "yourself.\p$"
+    .string "Mootok kahchon, anfatchi sahmosin\n"
+    .string "isnaalon.\p$"
 
 gOakSpeech_Text_YourNameWhatIsIt::
-    .string "Let's begin with your name.\n"
-    .string "What is it?\p$"
+    .string "Chiholchifa istanɬiya.\n"
+    .string "Naasooli?\p$"
 
 gOakSpeech_Text_SoYourNameIsPlayer::
-    .string "Right…\n"
-    .string "So your name is {PLAYER}.$"
+    .string "Mooliiya\n"
+    .string "Chiholchifa {PLAYER}.$"
 
 gOakSpeech_Text_WhatWasHisName::
-    .string "This is my grandson.\p"
-    .string "He's been your rival since you both\n"
-    .string "were babies.\p"
-    .string "…Erm, what was his name now?$"
+    .string "Ya amipokinaani.\p"
+    .string "Hasna tokloya aatosi ommistin\n"
+    .string "tikkiiliiyon\p"
+    .string "achichaapak ommihchoti.\p"
+    .string "...Moskon, holchifa naasooli?$"
 
 gOakSpeech_Text_YourRivalsNameWhatWasIt::
-    .string "Your rival's name, what was it now?$"
+    .string "Achichaapa holchifa, naasooli?$"
 
 gOakSpeech_Text_ConfirmRivalName::
-    .string "…Er, was it {RIVAL}?$"
+    .string "…Naho, {RIVAL} ommiko?$"
 
 gOakSpeech_Text_RememberRivalsName::
-    .string "That's right! I remember now!\n"
-    .string "His name is {RIVAL}!\p$"
+    .string "Moolo! Sobaylilo!\n"
+    .string "Holchifaya {RIVAL}!\p$"
 
 gOakSpeech_Text_LetsGo::
     .string "{PLAYER}!\p"
-    .string "Your very own POKéMON legend is\n"
-    .string "about to unfold!\p"
-    .string "A world of dreams and adventures\n"
-    .string "with POKéMON awaits! Let's go!$"
+    .string "CHINPOKIMONKA imoohchafatkafaamaalon\n"
+    .string "istaɬɬamoolo!\p"
+    .string "Ooltoban advenchan imihaani\p"
+    .string "nakson POKIMONKA wiikamok\n"
+    .string "chinhinakahlihchi!\p" 
+    .string "Amaailkaaski!$"

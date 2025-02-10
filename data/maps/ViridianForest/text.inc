@@ -83,7 +83,7 @@ ViridianForest_Text_UseAntidoteForPoison::
 
 ViridianForest_Text_ContactOakViaPCToRatePokedex::
     .string "TRAINER TIPS\p"
-    .string "Contact PROF. OAK via a PC to\n"
+    .string "Contact PROF. BAYA via a PC to\n"
     .string "get your POKéDEX evaluated!$"
 
 ViridianForest_Text_CantCatchOwnedMons::
