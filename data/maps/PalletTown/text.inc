@@ -1,15 +1,15 @@
 PalletTown_Text_OakDontGoOut::
-    .string "BAYA: Hey! Wait!\n"
-    .string "Don't go out!$"
+    .string "BAYA: Hey! Hinakahchi!\n"
+    .string "Assaliiskanna!$"
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
     .string "BAYA: Ĩhollobi!\n"
     .string "POKIMONKA maɬatli\l"
     .string "chassi chaahafon wiiko!\p"
-    .string "You need your own POKéMON for\n"
-    .string "your protection.\p"
-    .string "I know!\n"
-    .string "Here, come with me!$"
+    .string "POKIMONKA isnaalon chibanno\n"
+    .string "ilatomhimoskat.\p"
+    .string "Sobaylilo!\n"
+    .string "ischimontilo!$"
 
 PalletTown_Text_RaisingMonsToo::
     .string "I'm raising POKéMON, too.\p"

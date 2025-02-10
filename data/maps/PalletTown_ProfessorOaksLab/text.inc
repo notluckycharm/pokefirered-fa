@@ -3,12 +3,12 @@ PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround::
     .string "Gramps isn't around.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting::
-    .string "{RIVAL}: Gramps!\n"
-    .string "I'm fed up with waiting!$"
+    .string "{RIVAL}: Awo!\n"
+    .string "Hinakahlok amalpiisahchi!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMe::
-    .string "{RIVAL}: Hey! Gramps! No fair!\n"
-    .string "What about me?$"
+    .string "{RIVAL}: Hey! Awo! No fair!\n"
+    .string "Ammoya?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer::
     .string "{RIVAL}: Heh, I don't need to be\n"
@@ -23,12 +23,12 @@ PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak::
     .string "from PROF. BAYA!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
-    .string "{RIVAL}: My POKéMON looks a lot\n"
+    .string "{RIVAL}: AmPOKIMONKA chimmoyan \n"
     .string "tougher than yours.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMons::
-    .string "{RIVAL}: Wait, {PLAYER}!\n"
-    .string "Let's check out our POKéMON!\p"
+    .string "{RIVAL}: Hinakahchi, {PLAYER}!\n"
+    .string "Let's check out our POKIMON!\p"
     .string "Come on, I'll take you on!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalDefeat::
