@@ -1,10 +1,11 @@
 PalletTown_Text_OakDontGoOut::
-    .string "OAK: Hey! Wait!\n"
+    .string "BAYA: Hey! Wait!\n"
     .string "Don't go out!$"
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
-    .string "OAK: It's unsafe!\n"
-    .string "Wild POKéMON live in tall grass!\p"
+    .string "BAYA: Ĩhollobi!\n"
+    .string "POKIMONKA maɬatli\l"
+    .string "chassi chaahafon wiiko!\p"
     .string "You need your own POKéMON for\n"
     .string "your protection.\p"
     .string "I know!\n"
